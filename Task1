@@ -1,4 +1,4 @@
-/*
+
  
 Task 1
 
@@ -43,6 +43,8 @@ Hydra (http://www.thc.org/thc-hydra) starting at 2021-12-05 17:07:51
 Hydra (http://www.thc.org/thc-hydra) finished at 2021-12-05 17:08:24
 
 Με ενα απλο ssh shen@172.29.0.4 και τον κωδικο που βρηκαμε μετα απο το bruteforce , εχω προσβαση.
-/*
+
+Τελος τρεχουμε ενα tcpdump η μπορουμε και wireshark για να δουμε το traffic 
+
 
 
